@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @brockar1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-brockar1/brockar1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @brockar
+- 👀 I’m interested in computers in general, I also like hardware, I have built some 3d printers, and also some keyboards ;)
+- 🌱 I’m currently learning Flutter, and studying Computer Engineering.
+- 📫 How to reach me: Discord @brockar
